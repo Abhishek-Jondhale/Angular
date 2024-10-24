@@ -1,0 +1,11 @@
+.d2-2{
+    background-color: red;
+    background-image: linear-gradient(92deg,#217ee6 3%,#3187d5 44%,#69a798 70%,#fcf2a6 95%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 58px;
+    font-weight: 800;
+}
+.d2-1{
+    font-size: 50px;
+}
